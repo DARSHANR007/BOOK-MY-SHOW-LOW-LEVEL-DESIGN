@@ -1,18 +1,15 @@
-## Getting Started
+# 🎭 BookMyShow Low-Level Design (LLD)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains the **Low-Level Design (LLD)** for a **BookMyShow-like ticket booking system**. It covers the essential components required to design a scalable and maintainable online ticketing platform.
 
-## Folder Structure
+## 📌 Features Covered
 
-The workspace contains two folders by default, where:
+✔️ **User Management** (Sign up, login, roles: Admin, User)  
+✔️ **Movie & Show Management** (Add movies, schedules, theaters)  
+✔️ **Seat Selection & Booking** (Real-time availability, seat locking)  
+✔️ **Payment Integration** (Multiple payment modes, refunds)  
+✔️ **Notifications** (Email, SMS confirmations)  
+✔️ **Search & Filters** (By movie, location, date, theater)  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+📌 **Contributions & Suggestions Welcome!** 🚀
